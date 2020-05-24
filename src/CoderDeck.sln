@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoderDeck", "CoderDesk\CoderDeck.csproj", "{7A3C62D8-DCEA-4DC5-8598-BD327FBAF411}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A3C62D8-DCEA-4DC5-8598-BD327FBAF411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A3C62D8-DCEA-4DC5-8598-BD327FBAF411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A3C62D8-DCEA-4DC5-8598-BD327FBAF411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A3C62D8-DCEA-4DC5-8598-BD327FBAF411}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0F58EF6-967B-4021-A9D4-987D5F66A906}
+	EndGlobalSection
+EndGlobal
