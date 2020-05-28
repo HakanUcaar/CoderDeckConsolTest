@@ -11,6 +11,8 @@ namespace CoderDeck.Machines
             NewMovement<ButtonTwoPushMovement>();
             NewMovement<ButtonThreePushMovement>();
             NewMovement<ButtonFourPushMovement>();
+            NewMovement<ButtonFivePushMovement>();
+            NewMovement<ButtonSixPushMovement>();
         }
     }
 }

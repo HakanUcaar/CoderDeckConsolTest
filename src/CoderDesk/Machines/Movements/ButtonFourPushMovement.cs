@@ -12,7 +12,7 @@ namespace CoderDeck.Machines.Movements
 
         public void ReceiveData(IMachine Sender, object Data)
         {
-            Keyboard.CtrlKeyStroke('K', 'U');
+            //Keyboard.CtrlKeyStroke('K', 'U');
             Console.WriteLine(Sender.Name + " Okunan Veri : Buton4Pushed");
         }
     }

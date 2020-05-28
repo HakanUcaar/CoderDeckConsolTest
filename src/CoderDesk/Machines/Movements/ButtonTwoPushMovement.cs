@@ -13,7 +13,7 @@ namespace CoderDeck.Machines.Movements
 
         public void ReceiveData(IMachine Sender, object Data)
         {
-            SendKeys.SendWait("^V");
+            //SendKeys.SendWait("^V");
             Console.WriteLine(Sender.Name + " Okunan Veri : Buton2Pushed");            
         }
     }

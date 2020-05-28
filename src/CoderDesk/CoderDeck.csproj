@@ -52,8 +52,10 @@
   <ItemGroup>
     <Compile Include="Keyboard.cs" />
     <Compile Include="Machines\CoderDeckArduinoMachine.cs" />
+    <Compile Include="Machines\Movements\ButtonFivePushMovement.cs" />
     <Compile Include="Machines\Movements\ButtonFourPushMovement.cs" />
     <Compile Include="Machines\Movements\ButtonOnePushMovement.cs" />
+    <Compile Include="Machines\Movements\ButtonSixPushMovement.cs" />
     <Compile Include="Machines\Movements\ButtonThreePushMovement.cs" />
     <Compile Include="Machines\Movements\ButtonTwoPushMovement.cs" />
     <Compile Include="Program.cs" />
